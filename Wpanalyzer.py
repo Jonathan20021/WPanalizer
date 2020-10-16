@@ -38,7 +38,7 @@ sqliscanner		=		"off"
 
 def dtect():
 	print(" Security Wordpress - Pentest the Modern Web")
-	print(" Author: Jonathan Sandoval - ( http://sandovalsecurity.xyz )")
+	print(" Author: Jonathan Sandoval - ( https://medium.com/@jonathansandovalf )")
 	print("")
 	def menu():
 		global filedetector,wpenumerator,subdomainscan,portscan,wpscan,xssscanner,wpbackupscan,sqliscanner
