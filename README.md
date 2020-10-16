@@ -1,0 +1,3 @@
+# WPanalizer
+
+Necesario Python2
